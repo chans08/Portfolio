@@ -1,0 +1,212 @@
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TD {
+	FONT-SIZE: 12px; /*COLOR: #666666;*/ FONT-FAMILY: µ¸¿ò
+}
+.txt {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: µ¸¿ò
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: µ¸¿ò
+}
+INPUT#border {
+	BORDER-RIGHT: #d4d4d4 1px solid; BORDER-TOP: #d4d4d4 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #d4d4d4 1px solid; COLOR: #666666; BORDER-BOTTOM: #d4d4d4 1px solid; FONT-FAMILY: µ¸¿ò
+}
+TEXTAREA#border {
+	BORDER-RIGHT: #e0e0e0 1px solid; BORDER-TOP: #e0e0e0 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #e0e0e0 1px solid; COLOR: #666666; BORDER-BOTTOM: #e0e0e0 1px solid; FONT-FAMILY: µ¸¿ò
+}
+/*
+DIV {
+	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: µ¸¿ò
+}
+*/
+.radio {
+	MARGIN-BOTTOM: -2px
+}
+.bbsnewf5 A:link {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.bbsnewf5 A:visited {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.bbsnewf5 A:hover {
+	COLOR: #ff5500; TEXT-DECORATION: none
+}
+.bbsnew55 A:link {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.bbsnew55 A:visited {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.bbsnew55 A:hover {
+	COLOR: #555555; TEXT-DECORATION: underline
+}
+.rec_link A:link {
+	COLOR: #ff5500; TEXT-DECORATION: none
+}
+.rec_link A:visited {
+	COLOR: #ff5500; TEXT-DECORATION: none
+}
+.rec_link A:hover {
+	COLOR: #ff5500; TEXT-DECORATION: none
+}
+.press_cont A:link {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.press_cont A:visited {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.press_cont A:hover {
+	COLOR: #ff5500; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #555555; TEXT-DECORATION: underline
+}
+.history A:link {
+	COLOR: #555555; TEXT-DECORATION: none
+}
+.history A:link {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.history A:visited {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.history A:hover {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.tbgrey {
+	COLOR: #000000; PADDING-TOP: 3px; HEIGHT: 30px; BACKGROUND-COLOR: #f6f6f6
+}
+.tb55 {
+	COLOR: #555555; PADDING-TOP: 3px
+}
+.tbfc {
+	COLOR: #000000; HEIGHT: 27px; BACKGROUND-COLOR: #fcf7e6
+}
+.bbsbody01 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; OVERFLOW: hidden; WIDTH: 464px; TEXT-OVERFLOW: ellipsis
+}
+.bbsbody02 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px
+}
+.bbsbody03 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; OVERFLOW: hidden; WIDTH: 340px; TEXT-OVERFLOW: ellipsis
+}
+.pagenum {
+	FONT-WEIGHT: bold; COLOR: #ff5500
+}
+.pagenum A:link {
+	FONT-WEIGHT: normal; COLOR: #555555; TEXT-DECORATION: none
+}
+.pagenum A:visited {
+	FONT-WEIGHT: normal; COLOR: #555555; TEXT-DECORATION: none
+}
+.pagenum A:hover {
+	FONT-WEIGHT: normal; COLOR: #555555; TEXT-DECORATION: underline
+}
+.layercontent {
+	PADDING-RIGHT: 6px; MARGIN-TOP: 5px; PADDING-LEFT: 6px; BACKGROUND: #fcf7e6; PADDING-BOTTOM: 9px; WIDTH: 334px; LINE-HEIGHT: 140%; PADDING-TOP: 9px; HEIGHT: 30px; TEXT-ALIGN: justify
+}
+.schedule_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #166c9f; font-famliy: dotum
+}
+.schedule_txt A:link {
+	FONT-SIZE: 11px; COLOR: #d71f27; LINE-HEIGHT: 14px
+}
+.schedule_txt A:visited {
+	FONT-SIZE: 11px; COLOR: #d71f27; LINE-HEIGHT: 14px
+}
+.schedule_txt A:hover {
+	FONT-SIZE: 11px; COLOR: #d71f27; LINE-HEIGHT: 14px
+}
+TD#schedule1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 4px
+}
+TD#schedule2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; PADDING-BOTTOM: 5px; PADDING-TOP: 4px
+}
+.schedule_view_title {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 32px; BACKGROUND: url(../about/img/sc_view_title.gif) no-repeat; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 16px
+}
+.schedule_view {
+	PADDING-RIGHT: 26px; PADDING-LEFT: 26px; BACKGROUND: url(../about/img/sc_view_bg.gif) repeat-y 50% top; PADDING-BOTTOM: 15px; COLOR: #333333; LINE-HEIGHT: 150%; PADDING-TOP: 15px
+}
+.tbcont {
+	PADDING-LEFT: 8px
+}
+.news_header {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #0e3d72; LETTER-SPACING: -1px
+}
+.newstitle A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0e3d72; LETTER-SPACING: -1px; TEXT-DECORATION: none
+}
+.newstitle A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0e3d72; LETTER-SPACING: -1px; TEXT-DECORATION: none
+}
+.newstitle A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0e3d72; LETTER-SPACING: -1px; TEXT-DECORATION: underline
+}
+.notice {
+	FONT-SIZE: 11px; COLOR: #999999
+}
+.notice A:link {
+	FONT-SIZE: 12px; COLOR: #333333
+}
+.notice A:visited {
+	FONT-SIZE: 12px; COLOR: #333333
+}
+.notice A:hover {
+	FONT-SIZE: 12px; COLOR: #ff5500; TEXT-DECORATION: none
+}
+.notice_2 {
+	FONT-SIZE: 11px; COLOR: #004d7b
+}
+.notice_2 A:link {
+	FONT-SIZE: 12px; COLOR: #004d7b
+}
+.notice_2 A:visited {
+	FONT-SIZE: 12px; COLOR: #004d7b
+}
+.notice_2 A:hover {
+	FONT-SIZE: 12px; COLOR: #004d7b
+}
+.sunday {
+	FONT-SIZE: 11px; COLOR: #ff6666
+}
+.sunday A:link {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #ff6666
+}
+.sunday A:visited {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #ff6666
+}
+.sunday A:hover {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #ffe4c8; TEXT-DECORATION: none
+}
+.day {
+	FONT-SIZE: 11px; COLOR: #000000
+}
+.day A:link {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #000000
+}
+.day A:visited {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #000000
+}
+.day A:hover {
+	FONT-SIZE: 11px; BACKGROUND: #ffe4c8; WIDTH: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+.poll {
+	BACKGROUND: url(/main/img/img_pollbar_03.gif) no-repeat left 50%; PADDING-TOP: 1px
+}
+.ccc {
+	BACKGROUND: url(../images/bg_border.gif) no-repeat; WIDTH: 52px; CURSOR: hand; HEIGHT: 52px
+}
+.ddd {
+	BACKGROUND: url(../images/bg_border2.gif) no-repeat; WIDTH: 68px; CURSOR: hand; HEIGHT: 68px
+}
